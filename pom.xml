@@ -27,5 +27,6 @@
 	<modules>
 		<module>demo-zookeeper-client</module>
 		<module>demo-zookeeper-curator</module>
+		<module>demo-zookeeper-zkclient</module>
 	</modules>
 </project>
